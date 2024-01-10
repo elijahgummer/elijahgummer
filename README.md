@@ -1,6 +1,7 @@
 # 💫 About Me:
 ---
-# Hi there👋# <br>I'm Elijah W Gummer, a beginner developer with a passion for coding. 🚀 I love to code and am constantly learning and improving my skills.<br><br>🔭 I’m currently working on honing my programming skills and building projects.<br>🌱 I’m currently learning web development and exploring different programming languages.<br>👯 I’m looking to collaborate on open-source projects and expand my network in the developer community.<br>💬 Feel free to ask me about coding, web development, or anything related to programming!<br>📫 You can reach me via email at [elijahgummer5@gmail.com]<br>⚡ Fun fact: I love exploring the great outdoors and going on adventurous hiking trails.<br>I'm excited to connect with fellow developers and learn from each other. Let's build something awesome together! 😃
+# Hi there👋
+<br>I'm Elijah W Gummer, a beginner developer with a passion for coding. 🚀 I love to code and am constantly learning and improving my skills.<br><br>🔭 I’m currently working on honing my programming skills and building projects.<br>🌱 I’m currently learning web development and exploring different programming languages.<br>👯 I’m looking to collaborate on open-source projects and expand my network in the developer community.<br>💬 Feel free to ask me about coding, web development, or anything related to programming!<br>📫 You can reach me via email at [elijahgummer5@gmail.com]<br>⚡ Fun fact: I love exploring the great outdoors and going on adventurous hiking trails.<br>I'm excited to connect with fellow developers and learn from each other. Let's build something awesome together! 😃
 
 
 # 💻 Tech Stack:
