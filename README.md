@@ -1,6 +1,7 @@
 # 💫 About Me:
 ---
-# Hi there <div class="tenor-gif-embed" data-postid="17554626" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626">Waving Hand Joypixels Sticker</a>from <a href="https://tenor.com/search/waving+hand-stickers">Waving Hand Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+# Hi there <img src="https://tenor.com/blOVi.gif" alt="Image Alt Text" width="100" height="100">
+
 
 <br>I'm Elijah W Gummer, a beginner developer with a passion for coding. 🚀 I love to code and am constantly learning and improving my skills.<br><br>🔭 I’m currently working on honing my programming skills and building projects.<br>🌱 I’m currently learning web development and exploring different programming languages.<br>👯 I’m looking to collaborate on open-source projects and expand my network in the developer community.<br>💬 Feel free to ask me about coding, web development, or anything related to programming!<br>📫 You can reach me via email at [elijahgummer5@gmail.com]<br>⚡ Fun fact: I love exploring the great outdoors and going on adventurous hiking trails.<br>I'm excited to connect with fellow developers and learn from each other. Let's build something awesome together! 😃
 
