@@ -1,6 +1,6 @@
 # 💫 About Me:
 ---
-# Hi there <img src="![HandGIF](https://github.com/elijahgummer/elijahgummer/assets/96103526/edb133ba-53f6-48e4-a429-e8cbbbef1f2d)
+# Hi there <img src="https://github.com/elijahgummer/elijahgummer/assets/96103526/edb133ba-53f6-48e4-a429-e8cbbbef1f2d
 " alt="Image Alt Text" width="100" height="100">
 
 
