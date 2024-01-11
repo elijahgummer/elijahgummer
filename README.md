@@ -1,6 +1,6 @@
 # 💫 About Me:
 ---
-# Hi there ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966](https://github.com/elijahgummer/elijahgummer/assets/96103526/316431aa-65e6-4cd6-92e9-6463c518eba9)
+# Hi there (https://github.com/elijahgummer/elijahgummer/assets/96103526/316431aa-65e6-4cd6-92e9-6463c518eba9)
 
 <img src="[https://raw.githubusercontent.com/elijahgummer/elijahgummer/main/assets/96103526/421df452-1804-43ee-8d81-bb7145f31b26.gif](https://github.com/elijahgummer/elijahgummer/assets/96103526/316431aa-65e6-4cd6-92e9-6463c518eba9)" alt="Image Alt Text" width="100" height="100">
 
