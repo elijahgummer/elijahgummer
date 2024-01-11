@@ -1,6 +1,9 @@
 # 💫 About Me:
 ---
-# Hi there <img src="![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966](https://github.com/elijahgummer/elijahgummer/assets/96103526/481e25c6-86a6-4a0d-8fb4-98db5c3fb6f7)" alt="Image Alt Text" width="100" height="100">
+# Hi there ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966](https://github.com/elijahgummer/elijahgummer/assets/96103526/316431aa-65e6-4cd6-92e9-6463c518eba9)
+
+<img src="[https://raw.githubusercontent.com/elijahgummer/elijahgummer/main/assets/96103526/421df452-1804-43ee-8d81-bb7145f31b26.gif](https://github.com/elijahgummer/elijahgummer/assets/96103526/316431aa-65e6-4cd6-92e9-6463c518eba9)" alt="Image Alt Text" width="100" height="100">
+
 
 <br>I'm Elijah W Gummer, a beginner developer with a passion for coding. 🚀 I love to code and am constantly learning and improving my skills.<br><br>🔭 I’m currently working on honing my programming skills and building projects.<br>🌱 I’m currently learning web development and exploring different programming languages.<br>👯 I’m looking to collaborate on open-source projects and expand my network in the developer community.<br>💬 Feel free to ask me about coding, web development, or anything related to programming!<br>📫 You can reach me via email at [elijahgummer5@gmail.com]<br>⚡ Fun fact: I love exploring the great outdoors and going on adventurous hiking trails.<br>I'm excited to connect with fellow developers and learn from each other. Let's build something awesome together! 😃
 
