@@ -7,9 +7,9 @@
 ---
 
 <div align="center">
-  <p>
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+My+Name+Is+Elijah.+%F0%9F%91%8B%3BAspiring+Full-Stack+Dev.+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%3BUI%2FUX+Designer.+%F0%9F%96%8A%EF%B8%8F%3BPassionate+About+Web+Technologies.+%F0%9F%8C%90%3BCreating+Innovative+Solutions.+%F0%9F%9A%80%3BDriven+by+Curiosity+and+Creativity.+%F0%9F%92%A1">
-  </p>
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+My+Name+Is+Elijah.+%F0%9F%91%8B%3BAspiring+Full-Stack+Dev.+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%3BUI%2FUX+Designer.+%F0%9F%96%8A%EF%B8%8F%3BPassionate+About+Web+Technologies.+%F0%9F%8C%90%3BCreating+Innovative+Solutions.+%F0%9F%9A%80%3BDriven+by+Curiosity+and+Creativity.+%F0%9F%92%A1&color=B86CF9&background=000000" alt="Typing SVG">
+</p>
 </div>
 
 <div align="center">
