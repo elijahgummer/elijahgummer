@@ -5,9 +5,10 @@
    <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+My+Name+Is+Elijah.+%F0%9F%91%8B%3BAspiring+Full-Stack+Dev.+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%3BUI%2FUX+Designer.+%F0%9F%96%8A%EF%B8%8F%3BPassionate+About+Web+Technologies.+%F0%9F%8C%90%3BCreating+Innovative+Solutions.+%F0%9F%9A%80%3BDriven+by+Curiosity+and+Creativity.+%F0%9F%92%A1">
 </p>
-<img align="center">
+
+<p align="center">
 [![](https://visitcount.itsvg.in/api?id=elijahgummer&icon=0&color=0)](https://visitcount.itsvg.in)
-</img>
+</p>
 ---
 <br>I'm Elijah W Gummer, a beginner developer with a passion for coding. 🚀 I love to code and am constantly learning and improving my skills.<br><br>🔭 I’m currently working on honing my programming skills and building projects.<br>🌱 I’m currently learning web development and exploring different programming languages.<br>👯 I’m looking to collaborate on open-source projects and expand my network in the developer community.<br>💬 Feel free to ask me about coding, web development, or anything related to programming!<br>📫 You can reach me via email at [elijahgummer5@gmail.com]<br>
 
