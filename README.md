@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/elijahgummer/elijahgummer/assets/96103526/b0027c02-8bf3-4805-bbaf-9d6efe0e3e64" alt="banner twitter" width="100%" height="300">
+  <img src="https://github.com/elijahgummer/elijahgummer/assets/96103526/b0027c02-8bf3-4805-bbaf-9d6efe0e3e64" alt="banner twitter" width="100%" height="400">
 </div>
 
 ---
