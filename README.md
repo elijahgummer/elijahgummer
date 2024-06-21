@@ -2,16 +2,13 @@
     <img src="https://github.com/elijahgummer/elijahgummer/assets/96103526/2e555340-1334-4e31-8cf1-d48c4413e817" alt="Screenshot 2024-06-21 174850" width="100%" height="420">
 </div>
 
-
-
 ---
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; height: 100px;">
   <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+My+Name+Is+Elijah.+%F0%9F%91%8B%3BAspiring+Full-Stack+Dev.+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%3BUI%2FUX+Designer.+%F0%9F%96%8A%EF%B8%8F%3BPassionate+About+Web+Technologies.+%F0%9F%8C%90%3BCreating+Innovative+Solutions.+%F0%9F%9A%80%3BDriven+by+Curiosity+and+Creativity.+%F0%9F%92%A1&color=B86CF9& alt="Typing SVG" style="max-width: 100%;">
 </div>
 
-
-
+---
 <div align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=elijahgummer&icon=0&color=0" alt="Visitor Count">
