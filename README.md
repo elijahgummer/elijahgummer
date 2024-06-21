@@ -1,4 +1,6 @@
 # Hi there 👋😁
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+My+Name+Is+Elijah+👋;Aspiring+Full-Stack+Dev+👨‍💻;UI/UX+Designer+🖊️)](https://git.io/typing-svg)
 ---
 <br>I'm Elijah W Gummer, a beginner developer with a passion for coding. 🚀 I love to code and am constantly learning and improving my skills.<br><br>🔭 I’m currently working on honing my programming skills and building projects.<br>🌱 I’m currently learning web development and exploring different programming languages.<br>👯 I’m looking to collaborate on open-source projects and expand my network in the developer community.<br>💬 Feel free to ask me about coding, web development, or anything related to programming!<br>📫 You can reach me via email at [elijahgummer5@gmail.com]<br>
 
