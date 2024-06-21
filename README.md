@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://github.com/elijahgummer/elijahgummer/assets/96103526/b0027c02-8bf3-4805-bbaf-9d6efe0e3e64" alt="banner twitter" width="100%" height="400">
+    <img src="https://github.com/elijahgummer/elijahgummer/assets/96103526/2e555340-1334-4e31-8cf1-d48c4413e817" alt="Screenshot 2024-06-21 174850" width="100%" height="420">
 </div>
+
+
 
 ---
 
