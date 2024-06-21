@@ -1,7 +1,6 @@
 
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+My+Name+Is+Elijah.+👋;Aspiring+Full-Stack+Dev.+👨‍💻;UI/UX+Designer.+🖊️;Passionate+About+Web+Technologies.+🌐;Creating+Innovative+Solutions.+🚀;Driven+by+Curiosity+and+Creativity.+💡)](https://git.io/typing-svg)
-</div>
+   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+My+Name+Is+Elijah.+👋;Aspiring+Full-Stack+Dev.+👨‍💻;UI/UX+Designer.+🖊️;Passionate+About+Web+Technologies.+🌐;Creating+Innovative+Solutions.+🚀;Driven+by+Curiosity+and+Creativity.+💡)](https://git.io/typing-svg)
+
 
 
 ---
