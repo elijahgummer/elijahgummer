@@ -1,5 +1,5 @@
 
-<img src="https://github.com/elijahgummer/elijahgummer/assets/96103526/4abc9201-2e2b-4cdb-ade4-3e36029aff68" alt="Screenshot" width="400" height="300">
+<img src="https://github.com/elijahgummer/elijahgummer/assets/96103526/4abc9201-2e2b-4cdb-ade4-3e36029aff68" alt="Screenshot" width="100%" height="300">
 
 ---
    <p align="center">
