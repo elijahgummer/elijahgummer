@@ -19,12 +19,17 @@
 
 <br>
 <p align="center">
-  I'm Elijah W Gummer, a beginner developer with a passion for coding. 🚀 I love to code and am constantly learning and improving my skills.<br><br>🔭 I’m currently working on honing my programming skills and building projects.<br>🌱 I’m currently learning web development and exploring different programming languages.<br>👯 I’m looking to collaborate on open-source projects and expand my network in the developer community.<br>💬 Feel free to ask me about coding, web development, or anything related to programming!<br>📫 You can reach me via email at [elijahgummer5@gmail.com]<br>
+  I'm <b>Elijah W Gummer</b>, a <span style="color:purple;">beginner developer</span> with a passion for coding. 🚀 I love to code and am constantly learning and improving my skills.<br><br>
+  🔭 Currently, I'm <b>honing my programming skills</b> and building projects.<br>
+  🌱 I'm <b>learning web development</b> and exploring different programming languages.<br>
+  👯 I'm <b>looking to collaborate</b> on open-source projects and expand my network in the developer community.<br>
+  💬 Feel free to ask me about <b>coding, web development</b>, or anything related to programming!<br>
+  📫 You can reach me via email at <a href="mailto:elijahgummer5@gmail.com">elijahgummer5@gmail.com</a><br>
 </p>
 <br>
 
 <p align="center">
-  I'm excited to connect with fellow developers and learn from each other. Let's build something awesome together! 😃
+  I'm <span style="color:purple;">excited to connect</span> with fellow developers and learn from each other. <b>Let's build something awesome together!</b> 😃
 </p>
 
 ---
